@@ -1,4 +1,4 @@
-//   navbar function 
+//   navbar function
 $(document).ready(function(){
 
     $('.fa-bars').click(function(){
